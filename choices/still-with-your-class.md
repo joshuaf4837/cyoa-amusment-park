@@ -1,6 +1,5 @@
 Still with your class 
 ---
-Your teacher says something to you. What do you do?  
+Thank Goodness you stayed with your class! You arrived safely home!
 
-[Disobey her and go anyway](kidnapped.md)    
-[You listen to her](safe.md)
+[Get home safe](Amusment-Park.md)
