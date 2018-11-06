@@ -1,1 +1,2 @@
-# cyoa-amusment-park
+# Amusement Park!
+In this project we were suppose 
