@@ -1,3 +1,5 @@
 Kidnapped 
 ---
 Oh no! you got kidnapped and nobody saw because you weren't with your class! You shouldn't have went of on your own.. you lost sight of your friends class and your class because it was so crowded. Big mistake!
+
+[Try again](Amusment-park.md)
