@@ -11,4 +11,3 @@ Adventure Made by
 [Josh Fleary](https://github.com/joshuaf4837) 
 
 
-Image result for amusement park
