@@ -1,7 +1,7 @@
 # Amusement Park!
 ---
 ## Description  
-In this project, we made a fun and creative adventure that takes you into different parts. It shows how we linked links to keep going and see where you end up.   
+In this project, we made a fun and creative adventure that takes you into different parts. It shows how we linked links to keep going and see where you end up. For our project we made an adventure that takes you through an amusement park. Throughout, this adventure you get to choose the choices you want to go. This is either a fun trip or it could end up really bad. 
 
-![Click here to begin](Amusement-park.md)  
+[Click here to begin](Amusement-park.md)  
 [Click here to see the diagram](https://docs.google.com/drawings/d/19x7k9tx-mQ3VZNj6MSB6amlszHdVUjWNEnauY0wbPKY/edit)
