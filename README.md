@@ -10,4 +10,4 @@ Adventure Made by
 [Karen Morocho](https://github.com/Karenm0633)  
 [Josh Fleary](https://github.com/joshuaf4837) 
 
-![](Nightpark.png)
+![image](Nightpark.png)
