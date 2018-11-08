@@ -8,6 +8,7 @@ In this project, we made a fun and creative adventure that takes you into differ
 
 Adventure Made by  
 [Karen Morocho](https://github.com/Karenm0633)  
-[Josh Fleary](https://github.com/joshuaf4837) 
+[Josh Fleary](https://github.com/joshuaf4837)  
+
 
 ![image](Nightpark.png)
